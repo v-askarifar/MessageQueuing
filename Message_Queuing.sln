@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Message_Queuing", "Jayab_TCP_MSSQ\Message_Queuing.csproj", "{642CF68A-1580-446F-8704-1897D022DE10}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Message_Queuing", "Message_Queuing\Message_Queuing.csproj", "{642CF68A-1580-446F-8704-1897D022DE10}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,7 +1,0 @@
-F:\git\Message Queuing\Jayab_TCP_MSSQ\bin\Debug\Message_Queuing.exe
-F:\git\Message Queuing\Jayab_TCP_MSSQ\bin\Debug\Message_Queuing.pdb
-F:\git\Message Queuing\Jayab_TCP_MSSQ\obj\x86\Debug\Message_Queuing.Properties.Resources.resources
-F:\git\Message Queuing\Jayab_TCP_MSSQ\obj\x86\Debug\Message_Queuing.csproj.GenerateResource.Cache
-F:\git\Message Queuing\Jayab_TCP_MSSQ\obj\x86\Debug\Message_Queuing.exe
-F:\git\Message Queuing\Jayab_TCP_MSSQ\obj\x86\Debug\Message_Queuing.pdb
-F:\git\Message Queuing\Jayab_TCP_MSSQ\obj\x86\Debug\Message_Queuing.frmMessage_Queuing.resources
